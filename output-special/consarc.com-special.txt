@@ -1,5 +1,4 @@
 Redirect 301 /employee/index.php http://consarc.com/
+Redirect 301 /FSR.php http://consarc.com/
 Redirect 301 /pages/employee/index.php http://consarc.com/employee-information/
 Redirect 301 /pages/submit.php http://consarc.com/products
-Redirect 301 /xmlrpc.php http://consarc.com/
-Redirect 301 /FSR.php http://consarc.com/

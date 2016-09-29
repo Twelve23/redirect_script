@@ -1,1 +1,2 @@
-
+Redirect 301 /esp/includes/evento_detalhe.asp http://inductothermgroup.com.br/
+Redirect 301 /inducto_new/includes/noticia_list.asp http://inductothermgroup.com.br/

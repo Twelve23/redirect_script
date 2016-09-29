@@ -1,1 +1,6 @@
+Redirect 301 /arabic/default.asp http://inductotherm.com.tr/
+Redirect 301 /default.asp http://inductotherm.com.tr/
+Redirect 301 /eng/default.asp http://inductotherm.com.tr/
+Redirect 301 /haber_oku.asp http://inductotherm.com.tr/
+Redirect 301 /russian/default.asp http://inductotherm.com.tr/
 Redirect 301 /turkce/anket.php http://inductotherm.com.tr/

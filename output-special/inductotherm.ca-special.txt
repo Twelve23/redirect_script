@@ -1,0 +1,5 @@
+Redirect 301 /default.aspx http://inductotherm.ca/
+Redirect 301 /events.aspx http://inductotherm.ca/
+Redirect 301 /inductotherm-worldwide.aspx http://inductotherm.ca/
+Redirect 301 /login.aspx http://inductotherm.ca/
+Redirect 301 /news.aspx http://inductotherm.ca/
