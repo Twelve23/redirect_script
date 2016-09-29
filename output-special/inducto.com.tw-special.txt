@@ -1,0 +1,5 @@
+Redirect 301 /inductotw/modules/articles/article.php http://inducto.com.tw/
+Redirect 301 /modules/articles/article.php http://inducto.com.tw/
+Redirect 301 /modules/articles/print.php http://inducto.com.tw/
+Redirect 301 /userinfo.php http://inducto.com.tw/
+Redirect 301 /webmail/src/login.php inducto.com.tw/

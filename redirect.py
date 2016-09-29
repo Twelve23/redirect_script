@@ -4,8 +4,8 @@ from urlparse import urlparse
 
 def main():
     for f in os.listdir("csvs"):
-        output_filepath = "output/{0}-output.txt".format(f.strip(".csv"))
-        output_alt_filepath = "output-special/{0}-special.txt".format(f.strip(".csv"))
+        output_filepath = "output/{0}-output.csv".format(f[:-4])
+        output_alt_filepath = "output-special/{0}-special.txt".format(f[:-4])
         if not os.path.exists(os.path.dirname(output_filepath)):
             os.makedirs(os.path.dirname(output_filepath))
         if not os.path.exists(os.path.dirname(output_alt_filepath)):
@@ -32,7 +32,7 @@ def main():
                             new_url += "#" + parsed.fragment
 
                         if url.startswith("http"):
-                            if parsed.path.endswith("php"):
+                            if parsed.path.endswith(("php", "asp", "aspx", "cgi", "pl")):
                                 result = "Redirect 301 {0} {1}\n".format(parsed.path, dest)
                                 alt_file.write(result)
                             else:

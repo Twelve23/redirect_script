@@ -1,0 +1,3 @@
+Redirect 301 /contact-us.php http://thermatool.com/company-information/contact-us/
+Redirect 301 /bright-annealing-systems.php http://thermatool.com/products/
+Redirect 301 /thermaview-ii.php http://thermatool.com/products/

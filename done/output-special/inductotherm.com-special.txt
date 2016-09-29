@@ -1,0 +1,2 @@
+Redirect 301 /turkce/anket.php http://inductotherm.com/
+Redirect 301 /wire-processing-equipment-c-298.php http://inductotherm.com/

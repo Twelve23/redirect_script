@@ -1,0 +1,2 @@
+Redirect 301 /bbs/member_join.php http://inductotherm.co.kr/
+Redirect 301 /bbs/lostid.php http://inductotherm.co.kr/

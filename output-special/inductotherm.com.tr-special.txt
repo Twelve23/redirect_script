@@ -1,0 +1,1 @@
+Redirect 301 /turkce/anket.php http://inductotherm.com.tr/

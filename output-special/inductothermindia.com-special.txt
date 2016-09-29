@@ -1,0 +1,5 @@
+Redirect 301 /career.php http://inductothermindia.com/
+Redirect 301 /emailalert.php http://inductothermindia.com/
+Redirect 301 /tellcolleague.php http://inductothermindia.com/
+Redirect 301 /newslist.php http://inductothermindia.com/blog/article
+Redirect 301 /melting.php http://inductothermindia.com/request-information/

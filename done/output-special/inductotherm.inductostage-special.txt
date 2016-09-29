@@ -1,0 +1,3 @@
+Redirect 301 /turkce/anket.php http://inductotherm.inductostage.com/
+Redirect 301 /xmlrpc.php http://inductotherm.inductostage.com/
+Redirect 301 /wire-processing-equipment-c-298.php http://inductotherm.inductostage.com/
